@@ -1,0 +1,6 @@
+framework module Pods_HWPlayer_Example {
+  umbrella header "Pods-HWPlayer_Example-umbrella.h"
+
+  export *
+  module * { export * }
+}

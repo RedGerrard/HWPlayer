@@ -9,5 +9,5 @@
 @import UIKit;
 
 @interface HWViewController : UIViewController
-
+@property (nonatomic, strong) NSURL *url;
 @end

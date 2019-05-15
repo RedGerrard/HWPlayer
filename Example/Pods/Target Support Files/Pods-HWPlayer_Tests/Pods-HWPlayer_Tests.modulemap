@@ -1,0 +1,6 @@
+framework module Pods_HWPlayer_Tests {
+  umbrella header "Pods-HWPlayer_Tests-umbrella.h"
+
+  export *
+  module * { export * }
+}

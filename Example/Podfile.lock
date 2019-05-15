@@ -1,0 +1,16 @@
+PODS:
+  - HWPlayer (0.1.0)
+
+DEPENDENCIES:
+  - HWPlayer (from `../`)
+
+EXTERNAL SOURCES:
+  HWPlayer:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  HWPlayer: 5f822ccae2df05cce7f4da6cc8f89d8cfd74d337
+
+PODFILE CHECKSUM: 7b780f120a25da03cbedfaf6ffc183ac187cea80
+
+COCOAPODS: 1.6.1

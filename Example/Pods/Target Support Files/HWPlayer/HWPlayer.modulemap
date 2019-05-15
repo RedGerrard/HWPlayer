@@ -1,0 +1,6 @@
+framework module HWPlayer {
+  umbrella header "HWPlayer-umbrella.h"
+
+  export *
+  module * { export * }
+}
